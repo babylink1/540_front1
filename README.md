@@ -1,2 +1,1 @@
-# 540_front1
-smart_scheduling
+Front-end and back-end code for the Stevens Student Worker Budget Software
